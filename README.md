@@ -7,7 +7,7 @@
 - [옵저버 패턴]
 - [스트레티지 패턴]
 - [컴포지트 패턴]
-- [SOLID]()
+- [SOLID]
   - [의존성 주입](https://github.com/Han00903/CS-study/blob/main/Design%20Pattern/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85.md)
 
 ## 📌 Web
