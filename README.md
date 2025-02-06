@@ -1,5 +1,5 @@
 ## 📌 Design Pattern
-- [디자인패턴]()
+- [디자인패턴](https://github.com/Han00903/CS-study/blob/main/Design%20Pattern/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4)
 - [어댑터 패턴]()
 - [싱글톤 패턴]()
 - [탬플릿 메소드 패턴]()
