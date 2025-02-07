@@ -1,7 +1,7 @@
 ## 📌 Software Engineering
 - 코드 리팩토링 (Code Refactoring)
   - [의존성 주입](https://github.com/Han00903/CS-study/blob/main/Software%20Engineering/%EC%9D%98%EC%A1%B4%EC%84%B1%20%EC%A3%BC%EC%9E%85.md)
-  - [비즈니스 로직 개선]()
+  - [DTO와 엔티티 변환 방식](https://github.com/Han00903/CS-study/blob/main/Software%20Engineering/DTO%EC%99%80%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EB%B3%80%ED%99%98%20%EB%B0%A9%EC%8B%9D.md)
 
 ## 📌 Design Pattern
 - [디자인패턴]
