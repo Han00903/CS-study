@@ -25,6 +25,18 @@
 
 ## 코드 리팩토링(DTO와 엔티티 변환 방식을 개선)
 #### 기존 코드
+![image](https://github.com/user-attachments/assets/99010392-121e-4a1d-8f50-67a8a90c3239)
+- 기존 코드에서는 서비스 레이어에서 직접 엔티티 객체를 생성하고 저장하는 방식으로 처리했다.
+- DTO와 Entity 역할이 혼동되었다.
+  - DTO와 Entity 간 변환 로직이 서비스 레이어에 위치하여 책임이 명확하지 않아 코드의 응집도가 낮고 유지보수가 어렵다.
 
 #### 리팩토링 후 코드
+![image](https://github.com/user-attachments/assets/351d58ea-a63d-47ef-ba34-05d2883c719d)
+- 리팩토링을 통해 변환 로직을 Entity 내부로 캡슐화하여 코드의 가독성과 유지보수성을 향상시켰다.
+- Entity 클래스에 정적 메서드 fromDTO를 추가하여 DTO 변환 로직을 캡슐화하였다. 
+![image](https://github.com/user-attachments/assets/8eecaf4d-3296-4a06-87b5-36ee594cc47c)
+- 리팩토링 후 개선효과는 다음과 같다.
+  - 역할 분리 및 가독성 향상
+  - 유지보수성 및 확장성 개선
+     - 변환 로직 변경이 필요한 경우 Entity 내부에서만 수정하면 되므로 유지보수가 용이하다. 
 
