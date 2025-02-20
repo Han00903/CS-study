@@ -9,7 +9,10 @@
 - [정규화 및 역정규화]
 - [관계형 데이터베이스 vs. NoSQL]
 - [쿼리 및 성능 최적화]
-- [트랜잭션과 동시성 제어](https://github.com/Han00903/CS-study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4)
+- [트랜잭션과 동시성 제어]
+  🎯[트랜잭션](https://github.com/Han00903/CS-study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+  🎯[잠금 기법(Locking)]
+  🎯[교착상태(Deadlock)]
 - [인덱스 (Index) 최적화]
 
 ## 📌 Web
