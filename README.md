@@ -11,7 +11,7 @@
 - [쿼리 및 성능 최적화]
 - [트랜잭션과 동시성 제어]<br>
   🎯[트랜잭션](https://github.com/Han00903/CS-study/blob/main/Database/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)<br>
-  🎯[잠금 기법(Locking)]<br>
+  🎯[잠금 기법(Locking)](https://github.com/Han00903/CS-study/blob/main/Database/%EC%9E%A0%EA%B8%88%EA%B8%B0%EB%B2%95.md)<br>
   🎯[교착상태(Deadlock)]<br>
 - [인덱스 (Index) 최적화]
 
